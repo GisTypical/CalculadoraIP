@@ -31,7 +31,7 @@ public class EventoHost implements ActionListener {
             datos.setText("Se requiere la IP: 172.29.0.0/" + nCIRD);
         }
         if (claseA) {
-            datos.setText("Se requiere la IP: 100.0.0.0/" + nCIRD);
+            datos.setText("Se requiere la IP: 10.0.0.0/" + nCIRD);
         }
         if (!claseC && !claseB && !claseA){
             datos.setText("Indeterminado");   
