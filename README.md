@@ -1,6 +1,6 @@
 # CalculadoraIP
 _Proyecto Final Programación Orientada a Objetos_
-Esta calculadora tiene la capacidad de dar infomación acerca de una IP dada como: \
+Esta calculadora tiene la capacidad de dar infomación acerca de una IP dada como:
  
 - Clase
 - Reservada
